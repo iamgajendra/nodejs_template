@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "DEV-postgresOrgConnect",
+    "host": "127.0.0.1",
+    "port": 8012,
+    "dialect": "postgres",
+    "logging": false
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "TEST-postgresOrgConnect",
+    "host": "127.0.0.1",
+    "port": 8012,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "PROD-postgresOrgConnect",
+    "host": "127.0.0.1",
+    "port": 7000,
+    "dialect": "postgres"
+  }
+}

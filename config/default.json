@@ -1,0 +1,6 @@
+{
+    "logConfig": {
+        "logFolder": ".//logs//",
+        "logFile": "OrgConnectApp-%DATE%.log"
+    }
+}
