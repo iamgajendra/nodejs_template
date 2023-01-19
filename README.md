@@ -1,4 +1,4 @@
-# node js template whth potgres docker image
+# node js template whth postgres docker image
 
 
 
